@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Current Development
+[![GassiusODude's github stats](https://github-readme-stats.vercel.app/api?username=gassiusodude&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Background
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gassiusodude)](https://github.com/anuraghazra/github-readme-stats)
